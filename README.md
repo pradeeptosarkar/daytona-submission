@@ -6,7 +6,8 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
 
 # Sample <JavaScript - ReactJS>
 
-The project is built on JavaScript - ReactJS
+The project is built on JavaScript - ReactJS.
+
 This is the website of The NAMESPACE Community. This project receives 5000+ clicks every month and growing.
 
 ---
