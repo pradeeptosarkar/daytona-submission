@@ -19,10 +19,7 @@ The project is built on JavaScript - ReactJS
    ```bash  
    daytona create https://github.com/pradeeptosarkar/daytona-submission
    ```  
-
-... MORE STEPS IF NEEDED ...
-
-4. **Start the Application**:  
+3. **Start the Application**:  
    ```bash  
    npm run start
    ```  
