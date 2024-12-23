@@ -6,7 +6,7 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
 
 # Sample <LANGUAGE/FRAMEWORK>
 
-Sample description
+The project is built on JavaScript - ReactJS
 
 ---
 
@@ -17,18 +17,14 @@ Sample description
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create <SAMPLE_REPO_URL> 
+   daytona create https://github.com/pradeeptosarkar/daytona-submission
    ```  
 
 ... MORE STEPS IF NEEDED ...
 
 4. **Start the Application**:  
    ```bash  
-   command to start the app
+   npm run start
    ```  
 
 ---
-
-## ✨ Features  
-
-List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
