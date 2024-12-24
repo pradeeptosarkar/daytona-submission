@@ -14,7 +14,7 @@ This is the website of The NAMESPACE Community. This project receives 5000+ clic
 
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/pradeeptosarkar/daytona-submission
+   daytona create https://github.com/daytonaio/sample-react-namespace-community
    ```  
 3. **Start the Application**:  
    ```bash  
